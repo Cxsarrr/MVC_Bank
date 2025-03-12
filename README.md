@@ -21,7 +21,7 @@ Tkinter: Debe estar instalado junto con Python. Si no lo tienes, sigue las instr
 
 Instalación
 Clona el repositorio:
-https://github.com/Cxsarrr/MVC_Bank.git
+git clone https://github.com/Cxsarrr/MVC_Bank.git
 cd MVC_Bank
 Instala las dependencias:
 Este proyecto no requiere dependencias externas, ya que utiliza solo módulos estándar de Python (tkinter).
